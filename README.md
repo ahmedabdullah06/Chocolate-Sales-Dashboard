@@ -1,5 +1,7 @@
 # Chocolate Sales Dashboard (Power BI)
 
+# Dataset credit: Saidamin Saidakhmadov
+
 ## Overview
 This project is a Power BI dashboard built from a Chcoclate Sales on https://www.kaggle.com/datasets/saidaminsaidaxmadov/chocolate-sales, analyzing sales performance across salespeople, products, countries, and time. The goal was to practice building a normalized data model, writing DAX measures, and designing a dashboard that answers real business questions: who is selling well, which products drive revenue, and how performance trends over time.
 
